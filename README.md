@@ -1,6 +1,6 @@
 # MuPlay Lite
 
-A JavaFX application to edit playlists of the format .m3u.
+A JavaFX application to edit playlists of the format .m3u. This was an assignment for course PROG24178.
 
 ## Setup
 
